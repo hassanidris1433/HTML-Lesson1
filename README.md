@@ -8,28 +8,28 @@ introduction to HTML5, covering the fundamentals of web page structure, elements
 
 ### Morning:
 **Introduction to HTML:**
-- [ ] What is HTML and its role in web development?
-- [ ]  The anatomy of HTML syntax: tags, attributes, content.
-- [ ] The importance of HTML in creating web pages.
-- [ ] Overview of web browsers and how they render HTML.
+- [x] What is HTML and its role in web development?
+- [x]  The anatomy of HTML syntax: tags, attributes, content.
+- [x] The importance of HTML in creating web pages.
+- [x] Overview of web browsers and how they render HTML.
 
 **HTML Boilerplate and Doctypes:**
-- [ ]  Understanding the basic structure of an HTML document.
-- [ ] The role of the `<html>`, `<head>`, and `<body>` tags.
-- [ ] Introduction to doctypes and their purpose.
-- [ ] *Hands-on:* Creating a simple HTML document with the boilerplate.
+- [x]  Understanding the basic structure of an HTML document.
+- [x] The role of the `<html>`, `<head>`, and `<body>` tags.
+- [x] Introduction to doctypes and their purpose.
+- [x] *Hands-on:* Creating a simple HTML document with the boilerplate.
 
 **Indentation and Nesting:**
--  [ ] The importance of consistent indentation in HTML code.
--  [ ] Understanding the concept of nesting and its impact on code readability.
--  [ ] Applying indentation and nesting to the basic HTML structure.
--  [ ] *Hands-on:* Practice indenting and nesting HTML code.
+-  [x] The importance of consistent indentation in HTML code.
+-  [x] Understanding the concept of nesting and its impact on code readability.
+-  [x] Applying indentation and nesting to the basic HTML structure.
+-  [x] *Hands-on:* Practice indenting and nesting HTML code.
 
 ### Afternoon:
 **Structuring Content with HTML Tags:**
--  [ ] Introduction to headings (`<h1>` to `<h6>`) and paragraphs (`<p>`).
--  [ ] Using HTML tags to define different levels of importance and visual hierarchy.
--  [ ] *Hands-on:* Creating a simple webpage with headings and paragraphs.
+-  [x] Introduction to headings (`<h1>` to `<h6>`) and paragraphs (`<p>`).
+-  [x] Using HTML tags to define different levels of importance and visual hierarchy.
+-  [x] *Hands-on:* Creating a simple webpage with headings and paragraphs.
 
 **HTML Lists:**
 -  [ ] Understanding ordered (`<ol>`) and unordered (`<ul>`) lists.
